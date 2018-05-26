@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518849099101.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3978353280",
+    "id" : "790C089C",
+    "lastKnownWriteTime" : 1523618042,
+    "last_content_update" : 1523849387151,
+    "path" : "C:/Users/Umang Gupta/Desktop/Big Data Project/time series prediction.R",
+    "project_path" : "time series prediction.R",
+    "properties" : {
+        "cursorPosition" : "163,0",
+        "scrollLine" : "148",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

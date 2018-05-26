@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/api" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-auth/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-hdfs-httpfs/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-app/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-common/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-core/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-nativetask/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-project-dist/hadoop-common/build/source/hadoop-common-project/hadoop-common/target/api" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-project-dist/hadoop-hdfs-client/build/source/hadoop-hdfs-project/hadoop-hdfs-client/target/api" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-project-dist/hadoop-hdfs/build/source/hadoop-hdfs-project/hadoop-hdfs/target/api" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-api/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-client/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-common/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-registry/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-router/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-sharedcachemanager/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timeline-pluginstorage/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice/apidocs" />
+      <root url="file://C:/hadoop-3.0.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://C:/hadoop-3.0.0/share/hadoop/common/jdiff" />
+      <root url="file://C:/hadoop-3.0.0/share/hadoop/hdfs/jdiff" />
+      <root url="file://C:/hadoop-3.0.0/share/hadoop/mapreduce/jdiff" />
+    </SOURCES>
+  </library>
+</component>

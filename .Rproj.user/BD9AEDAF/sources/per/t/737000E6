@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523849420525.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "562334971",
+    "id" : "737000E6",
+    "lastKnownWriteTime" : 1523849462,
+    "last_content_update" : 1523849463218,
+    "path" : "C:/Users/Umang Gupta/Desktop/Big Data Project/Distant Supervised Learning (MaxEnt).R",
+    "project_path" : "Distant Supervised Learning (MaxEnt).R",
+    "properties" : {
+        "cursorPosition" : "18,8",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
